@@ -1,0 +1,24 @@
+/* ═══════════════════════════════════════════
+   MY DESIGN SYSTEM TOKENS v1.0
+   Import on every new project.
+═══════════════════════════════════════════ */
+:root {
+  --bg-base:#080b14; --bg-alt:#0c1020; --bg-deep:#06080f;
+  --bg-card:#0c1320; --bg-footer:#050710;
+  --accent:#00d4ff; --accent-hover:#33ddff;
+  --accent-dim:rgba(0,212,255,0.12);
+  --accent-border:rgba(0,212,255,0.15);
+  --accent-border-hv:rgba(0,212,255,0.38);
+  --text-white:#ffffff; --text-body:#c0cce0;
+  --text-secondary:#8da8c4; --text-muted:#5a7080;
+  --green:#20c55a; --green-dark:#10843a;
+  --red:#ff4d4d; --amber:#ffa000; --gold:#ffd000;
+  --font:'Segoe UI',Arial,Helvetica,sans-serif;
+  --text-base:17px; --leading:1.78;
+  --sp-1:4px; --sp-2:8px; --sp-3:13px; --sp-4:18px;
+  --sp-5:22px; --sp-6:26px; --sp-7:38px; --sp-8:52px;
+  --sp-9:64px; --sp-10:86px;
+  --container:860px; --wide:1140px; --gutter:22px;
+  --r-sm:7px; --r-md:11px; --r-lg:13px; --r-xl:16px;
+  --t-fast:0.14s; --t-med:0.2s;
+}
